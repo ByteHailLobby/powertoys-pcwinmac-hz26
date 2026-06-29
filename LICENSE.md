@@ -1,4 +1,4 @@
-# 
+# Código abierto PowerToys extensiones para Mac OS | Oficial PowerToys extensiones para PC Windows. Con optimización de red y exportación de datos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
